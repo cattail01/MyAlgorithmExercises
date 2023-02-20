@@ -1,0 +1,15 @@
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\bin\Debug\net7.0\ImageSmoother.exe
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\bin\Debug\net7.0\ImageSmoother.deps.json
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\bin\Debug\net7.0\ImageSmoother.runtimeconfig.json
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\bin\Debug\net7.0\ImageSmoother.dll
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\bin\Debug\net7.0\ImageSmoother.pdb
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\obj\Debug\net7.0\ImageSmoother.csproj.AssemblyReference.cache
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\obj\Debug\net7.0\ImageSmoother.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\obj\Debug\net7.0\ImageSmoother.AssemblyInfoInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\obj\Debug\net7.0\ImageSmoother.AssemblyInfo.cs
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\obj\Debug\net7.0\ImageSmoother.csproj.CoreCompileInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\obj\Debug\net7.0\ImageSmoother.dll
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\obj\Debug\net7.0\refint\ImageSmoother.dll
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\obj\Debug\net7.0\ImageSmoother.pdb
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\obj\Debug\net7.0\ImageSmoother.genruntimeconfig.cache
+G:\CodeTest\DotnetAlgorthmsTest\ImageSmoother\ImageSmoother\obj\Debug\net7.0\ref\ImageSmoother.dll

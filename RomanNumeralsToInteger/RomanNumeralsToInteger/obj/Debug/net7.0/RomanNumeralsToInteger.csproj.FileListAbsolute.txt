@@ -1,0 +1,15 @@
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\bin\Debug\net7.0\RomanNumeralsToInteger.exe
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\bin\Debug\net7.0\RomanNumeralsToInteger.deps.json
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\bin\Debug\net7.0\RomanNumeralsToInteger.runtimeconfig.json
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\bin\Debug\net7.0\RomanNumeralsToInteger.dll
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\bin\Debug\net7.0\RomanNumeralsToInteger.pdb
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\obj\Debug\net7.0\RomanNumeralsToInteger.csproj.AssemblyReference.cache
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\obj\Debug\net7.0\RomanNumeralsToInteger.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\obj\Debug\net7.0\RomanNumeralsToInteger.AssemblyInfoInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\obj\Debug\net7.0\RomanNumeralsToInteger.AssemblyInfo.cs
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\obj\Debug\net7.0\RomanNumeralsToInteger.csproj.CoreCompileInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\obj\Debug\net7.0\RomanNumeralsToInteger.dll
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\obj\Debug\net7.0\refint\RomanNumeralsToInteger.dll
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\obj\Debug\net7.0\RomanNumeralsToInteger.pdb
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\obj\Debug\net7.0\RomanNumeralsToInteger.genruntimeconfig.cache
+G:\CodeTest\DotnetAlgorthmsTest\RomanNumeralsToInteger\RomanNumeralsToInteger\obj\Debug\net7.0\ref\RomanNumeralsToInteger.dll

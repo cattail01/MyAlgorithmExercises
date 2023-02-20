@@ -1,0 +1,15 @@
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\bin\Debug\net7.0\AddBinaryString.exe
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\bin\Debug\net7.0\AddBinaryString.deps.json
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\bin\Debug\net7.0\AddBinaryString.runtimeconfig.json
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\bin\Debug\net7.0\AddBinaryString.dll
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\bin\Debug\net7.0\AddBinaryString.pdb
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\obj\Debug\net7.0\AddBinaryString.csproj.AssemblyReference.cache
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\obj\Debug\net7.0\AddBinaryString.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\obj\Debug\net7.0\AddBinaryString.AssemblyInfoInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\obj\Debug\net7.0\AddBinaryString.AssemblyInfo.cs
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\obj\Debug\net7.0\AddBinaryString.csproj.CoreCompileInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\obj\Debug\net7.0\AddBinaryString.dll
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\obj\Debug\net7.0\refint\AddBinaryString.dll
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\obj\Debug\net7.0\AddBinaryString.pdb
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\obj\Debug\net7.0\AddBinaryString.genruntimeconfig.cache
+G:\CodeTest\DotnetAlgorthmsTest\AddBinaryString\AddBinaryString\obj\Debug\net7.0\ref\AddBinaryString.dll

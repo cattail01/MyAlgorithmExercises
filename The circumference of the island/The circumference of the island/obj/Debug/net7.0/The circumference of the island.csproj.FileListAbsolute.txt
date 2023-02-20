@@ -1,0 +1,15 @@
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\bin\Debug\net7.0\The circumference of the island.exe
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\bin\Debug\net7.0\The circumference of the island.deps.json
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\bin\Debug\net7.0\The circumference of the island.runtimeconfig.json
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\bin\Debug\net7.0\The circumference of the island.dll
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\bin\Debug\net7.0\The circumference of the island.pdb
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\obj\Debug\net7.0\The circumference of the island.csproj.AssemblyReference.cache
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\obj\Debug\net7.0\The circumference of the island.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\obj\Debug\net7.0\The circumference of the island.AssemblyInfoInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\obj\Debug\net7.0\The circumference of the island.AssemblyInfo.cs
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\obj\Debug\net7.0\The circumference of the island.csproj.CoreCompileInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\obj\Debug\net7.0\The circumference of the island.dll
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\obj\Debug\net7.0\refint\The circumference of the island.dll
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\obj\Debug\net7.0\The circumference of the island.pdb
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\obj\Debug\net7.0\The circumference of the island.genruntimeconfig.cache
+G:\CodeTest\DotnetAlgorthmsTest\The circumference of the island\The circumference of the island\obj\Debug\net7.0\ref\The circumference of the island.dll

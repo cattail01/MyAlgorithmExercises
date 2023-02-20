@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RemoveElementsOriginal_Array_leetcode027/1.0.0": {
+        "runtime": {
+          "RemoveElementsOriginal_Array_leetcode027.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RemoveElementsOriginal_Array_leetcode027/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

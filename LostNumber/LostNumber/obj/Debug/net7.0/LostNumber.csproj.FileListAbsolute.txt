@@ -1,0 +1,15 @@
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\obj\Debug\net7.0\LostNumber.csproj.AssemblyReference.cache
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\obj\Debug\net7.0\LostNumber.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\obj\Debug\net7.0\LostNumber.AssemblyInfoInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\obj\Debug\net7.0\LostNumber.AssemblyInfo.cs
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\obj\Debug\net7.0\LostNumber.csproj.CoreCompileInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\bin\Debug\net7.0\LostNumber.exe
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\bin\Debug\net7.0\LostNumber.deps.json
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\bin\Debug\net7.0\LostNumber.runtimeconfig.json
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\bin\Debug\net7.0\LostNumber.dll
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\bin\Debug\net7.0\LostNumber.pdb
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\obj\Debug\net7.0\LostNumber.dll
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\obj\Debug\net7.0\refint\LostNumber.dll
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\obj\Debug\net7.0\LostNumber.pdb
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\obj\Debug\net7.0\LostNumber.genruntimeconfig.cache
+G:\CodeTest\DotnetAlgorthmsTest\LostNumber\LostNumber\obj\Debug\net7.0\ref\LostNumber.dll

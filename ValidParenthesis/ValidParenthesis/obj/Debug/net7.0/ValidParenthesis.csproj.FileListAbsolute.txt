@@ -1,0 +1,15 @@
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\bin\Debug\net7.0\ValidParenthesis.exe
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\bin\Debug\net7.0\ValidParenthesis.deps.json
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\bin\Debug\net7.0\ValidParenthesis.runtimeconfig.json
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\bin\Debug\net7.0\ValidParenthesis.dll
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\bin\Debug\net7.0\ValidParenthesis.pdb
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.csproj.AssemblyReference.cache
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.AssemblyInfoInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.AssemblyInfo.cs
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.csproj.CoreCompileInputs.cache
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.dll
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\obj\Debug\net7.0\refint\ValidParenthesis.dll
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.pdb
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.genruntimeconfig.cache
+G:\CodeTest\DotnetAlgorthmsTest\ValidParenthesis\ValidParenthesis\obj\Debug\net7.0\ref\ValidParenthesis.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LastestWordLength_string_leetcode058/1.0.0": {
+        "runtime": {
+          "LastestWordLength_string_leetcode058.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LastestWordLength_string_leetcode058/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
